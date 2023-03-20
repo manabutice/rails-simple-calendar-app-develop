@@ -16,3 +16,7 @@ fly launch
 fly deploy
 
 fly open
+
+docker実行コマンド
+
+docker-compose run web
